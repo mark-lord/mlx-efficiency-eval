@@ -1,6 +1,6 @@
 # MLX Efficiency Evaluation Tool
 
-A tool for evaluating the energy efficiency of MLX-based language models by measuring power consumption during text generation.
+A very primitive tool for evaluating the energy efficiency of MLX-based language models by measuring power consumption during text generation.
 
 ## Features
 

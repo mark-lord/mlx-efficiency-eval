@@ -1,0 +1,20 @@
+Timestamp,GPU Power (mW),Cumulative Tokens,Cumulative Energy (J),Cumulative kWh
+2024-03-14 10:00:00,1234.56,256,0.123,0.0000
+2024-03-14 10:00:01,1235.78,512,0.247,0.0000
+2024-03-14 10:00:02,1234.12,768,0.370,0.0000
+
+=== Generation Summary ===
+Total Tokens Generated,1024
+Time Taken (seconds),45.23
+Generation Speed (tokens/second),22.64
+Average Power Usage (mW),1234.82
+Total Energy Used (J),55.89
+Total Energy Used (kWh),0.0000
+Energy Efficiency (tokens/J),18.32
+
+Projections for 1M tokens:
+Time Required (seconds),44152.12
+Time Required (hours),12.26
+Energy Required (kWh),0.05
+Estimated Cost ($),0.02
+kWh Cost Used ($/kWh),0.35 
